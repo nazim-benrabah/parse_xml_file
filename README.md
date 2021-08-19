@@ -2,8 +2,7 @@
 
 This Python program will:
 
-1. Retrieve the contents of the page at: https://www.w3schools.com/xml/
-cd_catalog.xml
+1. Retrieve the contents of the page at: https://www.w3schools.com/xml/cd_catalog.xml
 
 2. Display for the CDs : the title, the artist, the country, the company, the year.
 
